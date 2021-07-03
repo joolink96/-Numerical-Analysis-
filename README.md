@@ -8,6 +8,7 @@ functions, integration, differential equations, direct and iterative methods in 
 
 
 Brief Course Outline (tentative)
+
 • Mathematical analysis
 • Fourier series
 • fixed point and finding the root
