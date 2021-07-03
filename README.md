@@ -1,6 +1,7 @@
 
 -Numerical Analysis-
 Spring 2021
+
 This course focuses on basic techniques for the efficient numerical solution of problems in science and
 engineering. Topics include Fourier series, fixed point, root finding, interpolation, approximation of
 functions, integration, differential equations, direct and iterative methods in linear algebra.
