@@ -10,8 +10,13 @@ functions, integration, differential equations, direct and iterative methods in 
 Brief Course Outline (tentative)
 
 • Mathematical analysis
+
 • Fourier series
+
 • fixed point and finding the root
+
 • Interpolation and approximation of the function
+
 • Differentiation and integration
+
 • Solving linear equations
